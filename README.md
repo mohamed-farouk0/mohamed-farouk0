@@ -27,33 +27,13 @@ I believe in learning by building, improving step by step, and turning what I le
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github" />
 
 <br><br>
 
 **Algorithms & Data Structures**
 **Software Engineering**
 **Web Development**
-
-</div>
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming & Web
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,html,css,js,nodejs" />
-
-</div>
-
-### Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
