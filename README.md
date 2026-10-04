@@ -41,12 +41,7 @@ I believe in learning by building, improving step by step, and turning what I le
 
 ## 🚀 Projects
 
-### 🔢 Linear System Solver — C#
-
-A C# console application for solving systems of linear equations using matrix operations.
-
-**Tech:** C# · Linear Algebra · Algorithms
-
+### Linear System Solver — C#
 <a href="PROJECT_LINK">
   <img src="https://img.shields.io/badge/Linear_System_Solver-C%23-2F80A8?style=for-the-badge&logo=csharp&logoColor=white" />
 </a>
