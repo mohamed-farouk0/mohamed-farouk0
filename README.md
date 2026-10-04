@@ -47,6 +47,14 @@ A C# console application for solving systems of linear equations using matrix op
 
 **Tech:** C# · Linear Algebra · Algorithms
 
+<a href="PROJECT_LINK">
+  <img src="https://img.shields.io/badge/Linear_System_Solver-C%23-2F80A8?style=for-the-badge&logo=csharp&logoColor=white" />
+</a>
+
+<p>
+  A C# program for solving systems of linear equations using matrix operations.
+</p>
+
 ---
 
 ## 📊 GitHub Stats
