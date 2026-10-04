@@ -1,5 +1,4 @@
-## Hi there 👋
-https://capsule-render.vercel.app/api?type=waving&height=120&color=172A46&color2=1F4E79&color3=2F80A8&section=footer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=172A46&color2=1F4E79&color3=2F80A8&section=header&reversal=false&text=Mohamed%20Farouk&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&rotate=0&strokeWidth=0" width="100%">
 
 <!--
 **mohamed-farouk0/mohamed-farouk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
