@@ -68,10 +68,6 @@ I believe in learning by building, improving step by step, and turning what I le
 
 <div align="center">
 
-<a href="https://github.com/mohamed-farouk0">
-  <img src="https://skillicons.dev/icons?i=github" width="45">
-</a>
-
 <a href="https://www.linkedin.com/in/mohamed-farouk2/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
