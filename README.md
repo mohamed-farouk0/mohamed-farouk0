@@ -42,7 +42,7 @@ I believe in learning by building, improving step by step, and turning what I le
 ## 🚀 Projects
 
 ### Linear System Solver — C#
-<a href="PROJECT_LINK">
+<a href="https://github.com/mohamed-farouk0/Linear-System-Solver">
   <img src="https://img.shields.io/badge/Linear_System_Solver-C%23-2F80A8?style=for-the-badge&logo=csharp&logoColor=white" />
 </a>
 
