@@ -72,6 +72,9 @@ I believe in learning by building, improving step by step, and turning what I le
   <img src="https://skillicons.dev/icons?i=github" width="45">
 </a>
 
+<a href="https://www.linkedin.com/in/mohamed-farouk2/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
 </div>
 
 <br>
