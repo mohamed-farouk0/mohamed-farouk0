@@ -26,9 +26,28 @@ I believe in learning by building, improving step by step, and turning what I le
 ## 🌱 Currently Learning
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github" />
-
+<a herf="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://skillicons.dev/icons?i=Cs"/>
+</a>
+<a herf="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</a>
+<a herf="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a herf="https://nodejs.org/en">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+<a herf="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a herf="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a herf="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+  
 <br><br>
 
 **Algorithms & Data Structures**
