@@ -26,25 +26,25 @@ I believe in learning by building, improving step by step, and turning what I le
 ## 🌱 Currently Learning
 
 <div align="center">
-<a herf="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://skillicons.dev/icons?i=Cs"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://skillicons.dev/icons?i=cs"/>
 </a>
-<a herf="https://www.python.org/">
+<a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python"/>
 </a>
-<a herf="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
 </a>
-<a herf="https://nodejs.org/en">
+<a href="https://nodejs.org/en">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
-<a herf="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://skillicons.dev/icons?i=html"/>
 </a>
-<a herf="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css"/>
 </a>
-<a herf="https://git-scm.com/">
+<a hraf="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
   
